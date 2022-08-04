@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\bin\Debug\netcoreapp3.1\MinMethodTask.exe
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\bin\Debug\netcoreapp3.1\MinMethodTask.deps.json
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\bin\Debug\netcoreapp3.1\MinMethodTask.runtimeconfig.json
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\bin\Debug\netcoreapp3.1\MinMethodTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\bin\Debug\netcoreapp3.1\MinMethodTask.dll
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\bin\Debug\netcoreapp3.1\MinMethodTask.pdb
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.dll
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.pdb
+C:\Users\HP\Desktop\MinMethodTask\MinMethodTask\obj\Debug\netcoreapp3.1\MinMethodTask.genruntimeconfig.cache
